@@ -41,4 +41,4 @@ To run this analysis locally, follow these steps:
 1. **Clone the repository:**
 
    ```bash
-   git clone: https://github.com/tunglam-2005/PowerCo
+   git clone: https://github.com/tunglam-2005/PowerCo.git
